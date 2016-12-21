@@ -1,11 +1,11 @@
 ---
-ID: 224
+ID: 289
 post_title: Mid Michigan News 8/20/2016
 author: ng23055
-post_date: 2016-12-21 15:31:46
+post_date: 2016-12-21 16:17:48
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=224'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=289'
 published: false
 tags: [ ]
 categories: [ ]
