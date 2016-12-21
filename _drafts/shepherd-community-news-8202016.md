@@ -1,11 +1,11 @@
 ---
-ID: 237
+ID: 297
 post_title: Shepherd Community News 8/20/2016
 author: ng23055
-post_date: 2016-12-21 15:33:10
+post_date: 2016-12-21 16:18:44
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=237'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=297'
 published: false
 tags: [ ]
 categories: [ ]
