@@ -1,13 +1,13 @@
 ---
-ID: 215
+ID: 310
 post_title: >
   ‘Video from the schoolhouse marker
   dedication
 author: ng23055
-post_date: 2016-12-21 15:30:40
+post_date: 2016-12-21 16:20:17
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=215'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=310'
 published: false
 tags: [ ]
 categories: [ ]
