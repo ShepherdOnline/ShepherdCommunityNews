@@ -1,13 +1,13 @@
 ---
-ID: 269
+ID: 364
 post_title: >
   CMACB Holiday Concert to be Held
   December 11
 author: ng23055
-post_date: 2016-12-21 15:35:14
+post_date: 2016-12-21 16:24:56
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=269'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=364'
 published: false
 tags: [ ]
 categories: [ ]
@@ -20,7 +20,7 @@ Their event on Facebook said the following about the concert:
 
 Here are some photos from last year's concert:
 
-<img class="alignnone size-medium wp-image-1903" src="http://publish.shepherdhistory.org/publish/shepherdjournal/wp-content/uploads/sites/3/2016/12/12339408_10153911160035921_3454303418014457471_o-336x450.jpg" alt="" width="336" height="450"/><img class="alignnone size-medium wp-image-1904" src="http://publish.shepherdhistory.org/publish/shepherdjournal/wp-content/uploads/sites/3/2016/12/12363210_10153911159975921_3171048118821891899_o-336x450.jpg" alt="" width="336" height="450"/>
+<img class="alignnone size-medium wp-image-1903" src="http://publish.shepherdhistory.org/publish/shepherdjournal/wp-content/uploads/sites/3/2016/12/12339408_10153911160035921_3454303418014457471_o-336x450-1.jpg" alt="" width="336" height="450"/><img class="alignnone size-medium wp-image-1904" src="http://publish.shepherdhistory.org/publish/shepherdjournal/wp-content/uploads/sites/3/2016/12/12363210_10153911159975921_3171048118821891899_o-336x450-1.jpg" alt="" width="336" height="450"/>
 
 For more information, follow the <a href="https://www.facebook.com/events/1805384953052521/">event for the concert her*e</a>.
 
