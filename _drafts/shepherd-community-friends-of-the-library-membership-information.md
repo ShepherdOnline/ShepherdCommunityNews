@@ -1,13 +1,13 @@
 ---
-ID: 227
+ID: 322
 post_title: >
   ‘Shepherd Community Friends of the
   Library Membership Information
 author: ng23055
-post_date: 2016-12-21 15:32:06
+post_date: 2016-12-21 16:21:39
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=227'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=322'
 published: false
 tags: [ ]
 categories: [ ]
