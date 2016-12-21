@@ -1,11 +1,11 @@
 ---
-ID: 233
+ID: 293
 post_title: 'Quilting Class to be offered October 19 &amp;'
 author: ng23055
-post_date: 2016-12-21 15:32:45
+post_date: 2016-12-21 16:18:14
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=233'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=293'
 published: false
 tags: [ ]
 categories: [ ]
