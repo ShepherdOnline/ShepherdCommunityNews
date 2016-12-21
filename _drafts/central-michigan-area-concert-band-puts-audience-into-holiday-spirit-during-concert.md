@@ -1,14 +1,14 @@
 ---
-ID: 271
+ID: 366
 post_title: >
   Central Michigan Area Concert Band Puts
   Audience into Holiday Spirit during
   Concert
 author: ng23055
-post_date: 2016-12-21 15:35:29
+post_date: 2016-12-21 16:25:10
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=271'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=366'
 published: false
 tags: [ ]
 categories: [ ]
