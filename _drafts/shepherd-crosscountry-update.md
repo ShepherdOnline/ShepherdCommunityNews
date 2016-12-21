@@ -1,11 +1,11 @@
 ---
-ID: 203
+ID: 238
 post_title: Shepherd CrossCountry Update
 author: ng23055
-post_date: 2016-12-21 15:28:34
+post_date: 2016-12-21 15:33:16
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=203'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=238'
 published: false
 tags: [ ]
 categories: [ ]
