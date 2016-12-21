@@ -1,5 +1,13 @@
-# Shepherd High School Announcements
-## Tuesday, December 20, 2016
+---
+
+post_title: 'Shepherd High School Announcements -
+Tuesday, December 20, 2016'
+
+layout: chapter
+
+published: false
+
+---
 
 Announcement Tuesday, December 20th:
 * The Media Center will be closing right after school at 3:00 on Wednesday. Have a great break!
@@ -10,5 +18,7 @@ Announcement Tuesday, December 20th:
 * If you attend Career Tech/Vocational classes at Alma High School's campus, your last day of class is TODAY. Please remember to make arrangements for transportation to and from Shepherd on Wednesday, if needed.
 The Media Center will be closed to students TODAY from 10:30-12:30.
 
+---
 
+[wpghs target='view' type='link' text='Here is my post on GitHub']
 
