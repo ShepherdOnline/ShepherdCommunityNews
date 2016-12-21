@@ -1,11 +1,11 @@
 ---
-ID: 211
+ID: 242
 post_title: Shepherd Soccer Club News
 author: ng23055
-post_date: 2016-12-21 15:30:06
+post_date: 2016-12-21 15:33:42
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=211'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=242'
 published: false
 tags: [ ]
 categories: [ ]
