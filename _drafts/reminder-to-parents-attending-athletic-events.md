@@ -1,13 +1,13 @@
 ---
-ID: 235
+ID: 295
 post_title: >
   ‘Reminder to Parents attending
   Athletic Events
 author: ng23055
-post_date: 2016-12-21 15:32:58
+post_date: 2016-12-21 16:18:28
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=235'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=295'
 published: false
 tags: [ ]
 categories: [ ]
