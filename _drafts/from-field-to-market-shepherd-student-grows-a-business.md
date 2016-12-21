@@ -1,13 +1,13 @@
 ---
-ID: 287
+ID: 317
 post_title: >
   ‘From field to market, Shepherd
   student grows a business
 author: ng23055
-post_date: 2016-12-21 16:17:35
+post_date: 2016-12-21 16:21:07
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=287'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=317'
 published: false
 tags: [ ]
 categories: [ ]
