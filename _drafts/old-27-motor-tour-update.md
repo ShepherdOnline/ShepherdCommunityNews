@@ -1,11 +1,11 @@
 ---
-ID: 291
+ID: 321
 post_title: Old 27 Motor Tour Update
 author: ng23055
-post_date: 2016-12-21 16:18:01
+post_date: 2016-12-21 16:21:31
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=291'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=321'
 published: false
 tags: [ ]
 categories: [ ]
