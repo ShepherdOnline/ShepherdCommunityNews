@@ -1,11 +1,11 @@
 ---
-ID: 285
+ID: 315
 post_title: '&#8216;Shepherd Middle School | December 18, 2016'
 author: ng23055
-post_date: 2016-12-21 16:17:23
+post_date: 2016-12-21 16:20:54
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=285'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=315'
 published: false
 tags: [ ]
 categories: [ ]
