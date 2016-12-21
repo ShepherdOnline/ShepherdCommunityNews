@@ -1,13 +1,13 @@
 ---
-ID: 232
+ID: 292
 post_title: >
   ‘Papas Pumpkin Patch needs volunteers
   for Applefest
 author: ng23055
-post_date: 2016-12-21 15:32:39
+post_date: 2016-12-21 16:18:08
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=232'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=292'
 published: false
 tags: [ ]
 categories: [ ]
