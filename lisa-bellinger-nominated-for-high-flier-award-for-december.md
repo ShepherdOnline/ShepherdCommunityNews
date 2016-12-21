@@ -1,0 +1,15 @@
+## From Jay Gross
+
+
+
+Hey There Shepherd...
+
+Our own Lisa Bellinger-Antcliff was awarded the HiFlier award today by JoAnn Rahl-Gross!
+
+Well deserved for someone who puts her heart into her career!
+
+Congratulations Lisa!!!
+
+## From the Shepherd High School
+
+Congratulations to Lisa Lisa Bellinger-Antcliff. Lisa has been nominated the High Flier for the month of December. Way to go Lisa.
