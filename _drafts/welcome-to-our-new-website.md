@@ -1,11 +1,11 @@
 ---
-ID: 216
+ID: 246
 post_title: Welcome to our new website!
 author: ng23055
-post_date: 2016-12-21 15:30:49
+post_date: 2016-12-21 15:34:08
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=216'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=246'
 published: false
 tags: [ ]
 categories: [ ]
