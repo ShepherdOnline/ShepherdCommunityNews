@@ -1,13 +1,13 @@
 ---
-ID: 294
+ID: 329
 post_title: >
   ‘Registration open for Shepherd Cheer
   K-3 youth clinic
 author: ng23055
-post_date: 2016-12-21 16:18:22
+post_date: 2016-12-21 16:22:22
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=294'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=329'
 published: false
 tags: [ ]
 categories: [ ]
