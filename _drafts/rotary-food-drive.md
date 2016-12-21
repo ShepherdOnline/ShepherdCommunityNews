@@ -1,11 +1,11 @@
 ---
-ID: 326
+ID: 371
 post_title: Rotary Food Drive
 author: ng23055
-post_date: 2016-12-21 16:22:05
+post_date: 2016-12-21 16:25:48
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=326'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=371'
 published: false
 tags: [ ]
 categories: [ ]
