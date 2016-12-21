@@ -1,13 +1,21 @@
 ---
-
-post_title: 'Shepherd High School Announcements -
-Tuesday, December 20, 2016'
+ID: 179
+post_title: '&#8216;Shepherd High School Announcements &#8211;'
+author: ng23055
+post_date: 2016-12-21 04:15:06
+post_excerpt: ""
 layout: post
-post type: chapter
+permalink: >
+  http://publish.shepherdhistory.org/publish/shepherdjournal/?p=179
 published: false
-
+medium_post:
+  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
+post type:
+  - chapter
+tags: [ ]
+categories:
+  - Uncategorized
 ---
-
 Announcement Tuesday, December 20th:
 * The Media Center will be closing right after school at 3:00 on Wednesday. Have a great break!
 * Shepherd lady jays went to Chesaning and saw a buzz saw losing 54-16. Sydney Holhbein lead the team with 7. Make sure you give them a pat on the back to encourage them. We will beat them next time! Go Blue!!
@@ -20,4 +28,3 @@ The Media Center will be closed to students TODAY from 10:30-12:30.
 ---
 
 [wpghs target='view' type='link' text='Here is my post on GitHub']
-
