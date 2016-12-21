@@ -1,13 +1,13 @@
 ---
-ID: 273
+ID: 368
 post_title: >
   Shepherd Public Schools Policy for
   Cancellations and Delays
 author: ng23055
-post_date: 2016-12-21 15:35:42
+post_date: 2016-12-21 16:25:25
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=273'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=368'
 published: false
 tags: [ ]
 categories: [ ]
