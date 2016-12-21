@@ -1,11 +1,11 @@
 ---
-ID: 247
+ID: 312
 post_title: 'Women&amp;'
 author: ng23055
-post_date: 2016-12-21 15:34:14
+post_date: 2016-12-21 16:20:31
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=247'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=312'
 published: false
 tags: [ ]
 categories: [ ]
