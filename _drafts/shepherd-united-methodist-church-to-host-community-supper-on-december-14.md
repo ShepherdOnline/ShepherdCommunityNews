@@ -1,13 +1,13 @@
 ---
-ID: 272
+ID: 367
 post_title: >
   Shepherd United Methodist Church to host
   Community Supper on December 14
 author: ng23055
-post_date: 2016-12-21 15:35:35
+post_date: 2016-12-21 16:25:17
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=272'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=367'
 published: false
 tags: [ ]
 categories: [ ]
