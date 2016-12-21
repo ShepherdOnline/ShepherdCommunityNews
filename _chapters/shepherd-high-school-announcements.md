@@ -2,7 +2,7 @@
 ID: 179
 post_title: Shepherd High School Announcements
 author: ng23055
-post_date: 2016-12-21 04:20:33
+post_date: 2016-12-20 04:20:33
 post_excerpt: ""
 layout: chapter
 permalink: >
@@ -15,6 +15,8 @@ post type:
 tags: [ ]
 categories:
   - Uncategorized
+pb_export:
+  - 'on'
 ---
 Announcement Tuesday, December 20th:
 * The Media Center will be closing right after school at 3:00 on Wednesday. Have a great break!
