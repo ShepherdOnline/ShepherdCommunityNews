@@ -1,11 +1,11 @@
 ---
-ID: 355
+ID: 378
 post_title: Drone Video of Shepherd Christmas Parade
 author: ng23055
-post_date: 2016-12-21 16:24:04
+post_date: 2016-12-21 16:26:32
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=355'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=378'
 published: false
 tags: [ ]
 categories: [ ]
