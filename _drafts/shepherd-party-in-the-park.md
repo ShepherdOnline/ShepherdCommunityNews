@@ -1,11 +1,11 @@
 ---
-ID: 205
+ID: 240
 post_title: Shepherd Party in the Park
 author: ng23055
-post_date: 2016-12-21 15:29:26
+post_date: 2016-12-21 15:33:27
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=205'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=240'
 published: false
 tags: [ ]
 categories: [ ]
