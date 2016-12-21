@@ -1,13 +1,13 @@
 ---
-ID: 358
+ID: 379
 post_title: >
   SHS Students invited to join Technology
   Team
 author: ng23055
-post_date: 2016-12-21 16:24:25
+post_date: 2016-12-21 16:26:40
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=358'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=379'
 published: false
 tags: [ ]
 categories: [ ]
