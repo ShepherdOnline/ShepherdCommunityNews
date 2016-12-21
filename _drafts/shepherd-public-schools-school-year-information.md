@@ -1,13 +1,13 @@
 ---
-ID: 206
+ID: 241
 post_title: >
   ‘Shepherd Public Schools School Year
   Information
 author: ng23055
-post_date: 2016-12-21 15:29:32
+post_date: 2016-12-21 15:33:35
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=206'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=241'
 published: false
 tags: [ ]
 categories: [ ]
