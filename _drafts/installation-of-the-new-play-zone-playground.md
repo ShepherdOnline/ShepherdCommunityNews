@@ -1,13 +1,13 @@
 ---
-ID: 288
+ID: 318
 post_title: >
   Installation of the New “Play Zone”
   Playground
 author: ng23055
-post_date: 2016-12-21 16:17:41
+post_date: 2016-12-21 16:21:13
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=288'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=318'
 published: false
 tags: [ ]
 categories: [ ]
