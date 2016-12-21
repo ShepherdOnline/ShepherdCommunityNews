@@ -1,11 +1,11 @@
 ---
-ID: 296
+ID: 331
 post_title: Shepherd Baseball Alumni Game
 author: ng23055
-post_date: 2016-12-21 16:18:36
+post_date: 2016-12-21 16:22:36
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=296'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=331'
 published: false
 tags: [ ]
 categories: [ ]
