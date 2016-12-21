@@ -1,11 +1,11 @@
 ---
-ID: 359
+ID: 370
 post_title: Shepherd Area Historical Society News
 author: ng23055
-post_date: 2016-12-21 16:24:32
+post_date: 2016-12-21 16:25:40
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=359'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=370'
 published: false
 tags: [ ]
 categories: [ ]
