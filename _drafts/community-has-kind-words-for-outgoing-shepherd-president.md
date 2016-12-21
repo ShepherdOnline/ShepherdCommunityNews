@@ -1,13 +1,13 @@
 ---
-ID: 261
+ID: 356
 post_title: >
   Community has kind words for outgoing
   Shepherd president
 author: ng23055
-post_date: 2016-12-21 15:34:35
+post_date: 2016-12-21 16:24:10
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=261'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=356'
 published: false
 tags: [ ]
 categories: [ ]
