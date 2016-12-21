@@ -1,10 +1,9 @@
 ---
 
 post_title: 'Lisa Bellinger nominated for the High Flier award for December'
-
-layout: post_type_probably_post
-
-published: true_or_false
+layout: post
+type: Chapter
+published: false
 
 ---
 
