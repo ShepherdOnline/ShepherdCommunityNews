@@ -1,13 +1,13 @@
 ---
-ID: 279
+ID: 365
 post_title: >
   Submissions of Holiday Related Events
   Welcome
 author: ng23055
-post_date: 2016-12-21 15:36:22
+post_date: 2016-12-21 16:25:03
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=279'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=365'
 published: false
 tags: [ ]
 categories: [ ]
