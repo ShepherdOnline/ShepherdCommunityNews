@@ -1,11 +1,11 @@
 ---
-ID: 207
+ID: 302
 post_title: Back to School Curriculum Night Update
 author: ng23055
-post_date: 2016-12-21 15:29:38
+post_date: 2016-12-21 16:19:28
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=207'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=302'
 published: false
 tags: [ ]
 categories: [ ]
