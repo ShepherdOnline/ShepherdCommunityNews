@@ -1,13 +1,13 @@
 ---
-ID: 357
+ID: 369
 post_title: >
   Shepherd Holiday Parade Morning Sun
   Gallery
 author: ng23055
-post_date: 2016-12-21 16:24:17
+post_date: 2016-12-21 16:25:31
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=357'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=369'
 published: false
 tags: [ ]
 categories: [ ]
