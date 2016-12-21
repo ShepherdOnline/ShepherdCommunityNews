@@ -2,9 +2,8 @@
 
 post_title: 'Shepherd High School Announcements -
 Tuesday, December 20, 2016'
-
-layout: chapter
-
+layout: post
+post type: chapter
 published: false
 
 ---
