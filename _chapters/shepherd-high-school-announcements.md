@@ -1,15 +1,17 @@
 ---
 ID: 179
-post_title: '&#8216;Shepherd High School Announcements &#8211;'
+post_title: Shepherd High School Announcements
 author: ng23055
-post_date: 2016-12-21 04:17:23
+post_date: 2016-12-21 04:20:33
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=179'
-published: false
+permalink: >
+  http://publish.shepherdhistory.org/publish/shepherdjournal/chapter/shepherd-high-school-announcements/
+published: true
 medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-post type: chapter
+  - 'a:1:{i:0;s:242:"O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}";}'
+post type:
+  - chapter
 tags: [ ]
 categories:
   - Uncategorized
