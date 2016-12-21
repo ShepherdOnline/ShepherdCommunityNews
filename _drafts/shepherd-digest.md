@@ -1,11 +1,11 @@
 ---
-ID: 204
+ID: 239
 post_title: 'Shepherd Digest &amp;'
 author: ng23055
-post_date: 2016-12-21 15:28:47
+post_date: 2016-12-21 15:33:21
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=204'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=239'
 published: false
 tags: [ ]
 categories: [ ]
