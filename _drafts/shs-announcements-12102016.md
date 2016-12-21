@@ -1,11 +1,11 @@
 ---
-ID: 277
+ID: 361
 post_title: SHS Announcements 12/10/2016
 author: ng23055
-post_date: 2016-12-21 15:36:09
+post_date: 2016-12-21 16:24:48
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=277'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=361'
 published: false
 tags: [ ]
 categories: [ ]
