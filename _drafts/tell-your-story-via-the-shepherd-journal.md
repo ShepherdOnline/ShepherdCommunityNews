@@ -1,11 +1,11 @@
 ---
-ID: 212
+ID: 243
 post_title: Tell your story via The Shepherd Journal
 author: ng23055
-post_date: 2016-12-21 15:30:13
+post_date: 2016-12-21 15:33:48
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=212'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=243'
 published: false
 tags: [ ]
 categories: [ ]
