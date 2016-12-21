@@ -1,11 +1,11 @@
 ---
-ID: 313
+ID: 380
 post_title: Youth Football Program Update
 author: ng23055
-post_date: 2016-12-21 16:20:40
+post_date: 2016-12-21 16:26:46
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=313'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=380'
 published: false
 tags: [ ]
 categories: [ ]
