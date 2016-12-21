@@ -1,11 +1,11 @@
 ---
-ID: 208
+ID: 303
 post_title: Mid Michigan News Roundup 08/18/2016
 author: ng23055
-post_date: 2016-12-21 15:29:45
+post_date: 2016-12-21 16:19:33
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=208'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=303'
 published: false
 tags: [ ]
 categories: [ ]
