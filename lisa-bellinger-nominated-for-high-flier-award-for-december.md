@@ -1,6 +1,6 @@
 ## From Jay Gross
 
-
+![](/15589654_10154432458663445_926905444438200247_n.jpg)
 
 Hey There Shepherd...
 
