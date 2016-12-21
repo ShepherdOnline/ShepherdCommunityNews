@@ -1,11 +1,11 @@
 ---
-ID: 308
+ID: 339
 post_title: Test Title
 author: ng23055
-post_date: 2016-12-21 16:20:04
+post_date: 2016-12-21 16:23:29
 post_excerpt: ""
 layout: chapter
-permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=308'
+permalink: 'http://publish.shepherdhistory.org/publish/shepherdjournal/?post_type=chapter&p=339'
 published: false
 tags: [ ]
 categories: [ ]
