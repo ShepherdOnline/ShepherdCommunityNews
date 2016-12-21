@@ -1,5 +1,6 @@
 # Summary
 
+## December 20, 2016
 * [Introduction](README.md)
 
 ## Shepherd Public Schools
